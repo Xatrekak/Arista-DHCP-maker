@@ -2,5 +2,6 @@
 venv/
 .vscode/
 csv/*
+!csv/example.csv
 __pycache__/
 __pycache__/*

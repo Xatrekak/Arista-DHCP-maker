@@ -38,7 +38,7 @@ class device_data:
     bootfile_name: str
 
 def main():
-    file_name = "AFN dhcp info.csv"
+    file_name = "example.csv"
     devices_list = []
     current_subnet = None
 
